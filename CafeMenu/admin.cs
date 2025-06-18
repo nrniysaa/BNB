@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CafeMenu
+namespace projectCafe
 {
-    public partial class Login : Form
+    public partial class Form2 : Form
     {
-        public Login()
+        public Form2()
         {
             InitializeComponent();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
