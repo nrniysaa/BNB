@@ -1,0 +1,13 @@
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\bin\Debug\CafeMenu.exe.config
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\bin\Debug\CafeMenu.exe
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\bin\Debug\CafeMenu.pdb
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.csproj.AssemblyReference.cache
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.Properties.Resources.resources
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.csproj.GenerateResource.cache
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.csproj.CoreCompileInputs.cache
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.exe
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.pdb
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.Form2Menu.resources
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\obj\Debug\CafeMenu.Form1.resources
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\bin\Debug\Database1.mdf
+C:\Users\nisa\source\repos\CafeMenu\CafeMenu\bin\Debug\Database1_log.ldf
