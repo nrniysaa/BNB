@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\nisa\\source\\repos\\BNB\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -12,6 +13,13 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\User\\source\\repos\\BNB\\cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\User\\source\\repos\\BNB\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> 3292e39e4af95cb953c71372836d90003c44bd2c
       "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +38,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\AssemblyInfo.cs",
@@ -44,6 +53,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 1,
+>>>>>>> 3292e39e4af95cb953c71372836d90003c44bd2c
               "Title": "Form2Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
               "RelativeDocumentMoniker": "CafeMenu\\Form2Menu.cs",
@@ -55,7 +67,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 0,
+>>>>>>> 3292e39e4af95cb953c71372836d90003c44bd2c
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form1.cs",
               "RelativeDocumentMoniker": "CafeMenu\\Form1.cs",
