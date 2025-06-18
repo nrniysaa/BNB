@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BNB\\",
+  "WorkspaceRootPath": "C:\\Users\\nisa\\source\\repos\\BNB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\user\\source\\repos\\bnb\\cafemenu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\user\\source\\repos\\bnb\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\user\\source\\repos\\bnb\\cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,27 +26,28 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Login.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Login.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Login.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\Login.cs [Design]",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CafeMenu\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CafeMenu\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T05:48:01.473Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-18T06:08:40.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
               "RelativeDocumentMoniker": "CafeMenu\\Form2Menu.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs [Design]",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs [Design]",
               "RelativeToolTip": "CafeMenu\\Form2Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:47:09.755Z",
@@ -54,11 +55,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form1.cs",
               "RelativeDocumentMoniker": "CafeMenu\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form1.cs [Design]",
               "RelativeToolTip": "CafeMenu\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:47:04.306Z",
