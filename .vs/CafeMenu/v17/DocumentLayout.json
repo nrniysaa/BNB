@@ -1,14 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BNB\\",
+  "WorkspaceRootPath": "C:\\Users\\nisa\\source\\repos\\BNB\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\User\\source\\repos\\BNB\\cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 9563b4a0dcfa89187d18e3ceafb774276c1024a1
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\User\\source\\repos\\BNB\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_RESOURCES_CAFE_DATABASE.MDF/True/SqlTable/dbo.Menu.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CafeMenu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nisa\\AppData\\Local\\Temp\\5o3bdegg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +36,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CafeMenu",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\CafeMenu.csproj",
+              "RelativeDocumentMoniker": "CafeMenu\\CafeMenu.csproj",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\CafeMenu.csproj",
+              "RelativeToolTip": "CafeMenu\\CafeMenu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-21T06:49:01.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5o3bdegg..sql",
+              "DocumentMoniker": "C:\\Users\\nisa\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "ToolTip": "C:\\Users\\nisa\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-19T14:36:25.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form2Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Form2Menu.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\Form2Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T05:47:09.755Z",
-              "EditorCaption": " [Design]"
+              "Title": "dbo.Menu.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_RESOURCES_CAFE_DATABASE.MDF/True/SqlTable/dbo.Menu.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_RESOURCES_CAFE_DATABASE.MDF/True/SqlTable/dbo.Menu.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-19T14:26:46.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form1.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BNB\\CafeMenu\\Form1.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\Form1.cs [Design]",
+              "Title": "Form2Menu.cs",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
+              "RelativeDocumentMoniker": "CafeMenu\\Form2Menu.cs",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
+              "RelativeToolTip": "CafeMenu\\Form2Menu.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAHkBAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T05:47:04.306Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-19T12:42:04.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
+              "RelativeDocumentMoniker": "CafeMenu\\Form2Menu.cs",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs [Design]",
+              "RelativeToolTip": "CafeMenu\\Form2Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:47:09.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CafeMenu\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CafeMenu\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:08:40.622Z"
             }
           ]
         }

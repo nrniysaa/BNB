@@ -123,6 +123,16 @@ namespace CafeMenu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap chicken_pie {
+            get {
+                object obj = ResourceManager.GetObject("chicken pie", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap choco_croissant {
             get {
                 object obj = ResourceManager.GetObject("choco croissant", resourceCulture);
@@ -143,9 +153,39 @@ namespace CafeMenu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap iced_choco {
+            get {
+                object obj = ResourceManager.GetObject("iced choco", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mascarpone_puff {
+            get {
+                object obj = ResourceManager.GetObject("mascarpone puff", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap milk_brioche_rolls {
             get {
                 object obj = ResourceManager.GetObject("milk brioche rolls", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap strawberry_soda {
+            get {
+                object obj = ResourceManager.GetObject("strawberry soda", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
