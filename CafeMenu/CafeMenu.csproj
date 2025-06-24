@@ -61,12 +61,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form2Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,9 +69,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form2Menu.resx">
       <DependentUpon>Form2Menu.cs</DependentUpon>
     </EmbeddedResource>
@@ -135,12 +126,20 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Cafe Database.mdf">
+    <None Include="Resources\iced choco.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strawberry soda.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mascarpone puff.jpg" />
+    <None Include="chicken pie.jpg" />
+    <Content Include="Resources\Cafe_Database.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Cafe Database_log.ldf">
+    <Content Include="Resources\Cafe_Database_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>Cafe Database.mdf</DependentUpon>
+      <DependentUpon>Cafe_Database.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
