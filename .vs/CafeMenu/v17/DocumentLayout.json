@@ -3,62 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\nisa\\source\\repos\\BNB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\User\\source\\repos\\BNB\\cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 9563b4a0dcfa89187d18e3ceafb774276c1024a1
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_RESOURCES_CAFE_DATABASE.MDF/True/SqlTable/dbo.Menu.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\form2menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CafeMenu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nisa\\AppData\\Local\\Temp\\5o3bdegg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\adminoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\adminoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\adminoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\adminoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|c:\\users\\nisa\\source\\repos\\bnb\\cafemenu\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_BNBDATABASE.MDF/True/SqlTable/dbo.Customer.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_BNBDATABASE.MDF/True/SqlTable/dbo.Order.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\properties\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\properties\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\properties\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\properties\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|C:\\Users\\nisa\\source\\repos\\BNB\\cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A980B-354D-4F80-8C17-800EDE45BE75}|CafeMenu\\CafeMenu.csproj|solutionrelative:cafemenu\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,34 +36,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\Login.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Properties\\Login.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\Login.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\Properties\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T04:51:36.797Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\Login.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Properties\\Login.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\Login.cs",
-              "RelativeToolTip": "CafeMenu\\Properties\\Login.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T05:26:44.605Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "CafeMenu",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\CafeMenu.csproj",
+              "RelativeDocumentMoniker": "CafeMenu\\CafeMenu.csproj",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\CafeMenu.csproj",
+              "RelativeToolTip": "CafeMenu\\CafeMenu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-21T06:49:01.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5o3bdegg..sql",
+              "DocumentMoniker": "C:\\Users\\nisa\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "ToolTip": "C:\\Users\\nisa\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\5o3bdegg..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-19T14:36:25.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Menu.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_RESOURCES_CAFE_DATABASE.MDF/True/SqlTable/dbo.Menu.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_RESOURCES_CAFE_DATABASE.MDF/True/SqlTable/dbo.Menu.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-19T14:26:46.894Z"
             },
             {
               "$type": "Document",
@@ -105,152 +81,33 @@
               "RelativeDocumentMoniker": "CafeMenu\\Form2Menu.cs",
               "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
               "RelativeToolTip": "CafeMenu\\Form2Menu.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAHADAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAHkBAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T05:33:43.271Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-06-19T12:42:04.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs",
               "RelativeDocumentMoniker": "CafeMenu\\Form2Menu.cs",
               "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Form2Menu.cs [Design]",
               "RelativeToolTip": "CafeMenu\\Form2Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T05:01:17.719Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Payment.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Payment.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Payment.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Payment.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\Payment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T05:40:42.707Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderSummary.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\OrderSummary.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\OrderSummary.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\OrderSummary.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\OrderSummary.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:17:23.78Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminOverview.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\AdminOverview.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\AdminOverview.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\AdminOverview.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\AdminOverview.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T14:23:26.951Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-18T05:47:09.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AdminOverview.cs",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\AdminOverview.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\AdminOverview.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\AdminOverview.cs",
-              "RelativeToolTip": "CafeMenu\\AdminOverview.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAjwJ4AAAAAAAAAAAAAAA==",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CafeMenu\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CafeMenu\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T14:41:09.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderSummary.cs",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\OrderSummary.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\OrderSummary.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\OrderSummary.cs",
-              "RelativeToolTip": "CafeMenu\\OrderSummary.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAnwDcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:19:45.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dbo.Customer.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_BNBDATABASE.MDF/True/SqlTable/dbo.Customer.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_BNBDATABASE.MDF/True/SqlTable/dbo.Customer.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-26T00:28:48.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dbo.Order.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_BNBDATABASE.MDF/True/SqlTable/dbo.Order.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NISA_SOURCE_REPOS_BNB_CAFEMENU_BNBDATABASE.MDF/True/SqlTable/dbo.Order.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-26T00:28:32.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LogInAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\LogInAdmin.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\LogInAdmin.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\LogInAdmin.cs [Design]",
-              "RelativeToolTip": "CafeMenu\\LogInAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T00:49:52.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Payment.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Payment.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Payment.cs",
-              "RelativeToolTip": "CafeMenu\\Payment.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:39:42.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginInfo.cs",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\LoginInfo.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\LoginInfo.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\LoginInfo.cs",
-              "RelativeToolTip": "CafeMenu\\LoginInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:09:17.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Program.cs",
-              "RelativeDocumentMoniker": "CafeMenu\\Program.cs",
-              "ToolTip": "C:\\Users\\nisa\\source\\repos\\BNB\\CafeMenu\\Program.cs",
-              "RelativeToolTip": "CafeMenu\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T05:36:37.525Z"
+              "WhenOpened": "2025-06-18T06:08:40.622Z"
             }
           ]
         }
