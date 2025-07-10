@@ -118,17 +118,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="strawberry soda" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\strawberry soda.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="takawayyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\takawayyy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="choco croissant" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\choco croissant.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2727950d04bfa9a3fea3b5a37ccfa662" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\2727950d04bfa9a3fea3b5a37ccfa662.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iced choco" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iced choco.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="vintagecafe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\vintagecafe.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="milk brioche rolls" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\milk brioche rolls.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,25 +130,70 @@
   <data name="87c67eee7eb240004365c055fd31e65d" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\87c67eee7eb240004365c055fd31e65d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="chicken pie" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\chicken pie.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="be8d1f265fb47d2a8664d72e474e98541" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\be8d1f265fb47d2a8664d72e474e9854.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="choco croissant 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\choco croissant 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="be8d1f265fb47d2a8664d72e474e9854" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\be8d1f265fb47d2a8664d72e474e9854.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dine in" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\dine in.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vintagecafe1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\vintagecafe1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="take away" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\take away.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chicken pie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\chicken pie.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dine in real" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\dine in real.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2727950d04bfa9a3fea3b5a37ccfa662" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\2727950d04bfa9a3fea3b5a37ccfa662.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mascarpone puff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mascarpone puff.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dineinN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\dineinN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="takeaway real" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\takeaway real.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="choco croissant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\choco croissant.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="87c67eee7eb240004365c055fd31e65d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\87c67eee7eb240004365c055fd31e65d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="strawberry soda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strawberry soda.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="be8d1f265fb47d2a8664d72e474e9854" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\be8d1f265fb47d2a8664d72e474e9854.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dineinnn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\dineinnn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="be8d1f265fb47d2a8664d72e474e98541" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\be8d1f265fb47d2a8664d72e474e9854.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="takeawayN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\takeawayN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iced choco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iced choco.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="87c67eee7eb240004365c055fd31e65d2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\87c67eee7eb240004365c055fd31e65d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="mascarpone puff" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mascarpone puff.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cafephoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\cafephoto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="takeawayy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\takeawayy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled design" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Untitled design.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

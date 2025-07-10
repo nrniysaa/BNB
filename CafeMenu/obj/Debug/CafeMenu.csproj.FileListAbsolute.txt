@@ -29,5 +29,10 @@ C:\Users\nisa\source\repos\BNB\CafeMenu\obj\Debug\CafeMenu.pdb
 C:\Users\nisa\source\repos\BNB\CafeMenu\bin\Debug\CafeMenu.exe.config
 C:\Users\nisa\source\repos\BNB\CafeMenu\bin\Debug\CafeMenu.exe
 C:\Users\nisa\source\repos\BNB\CafeMenu\bin\Debug\CafeMenu.pdb
-C:\Users\nisa\source\repos\BNB\CafeMenu\bin\Debug\Resources\Cafe_Database.mdf
-C:\Users\nisa\source\repos\BNB\CafeMenu\bin\Debug\Resources\Cafe_Database_log.ldf
+C:\Users\nisa\source\repos\BNB\CafeMenu\obj\Debug\CafeMenu.Properties.Login.resources
+C:\Users\nisa\source\repos\BNB\CafeMenu\obj\Debug\CafeMenu.Payment.resources
+C:\Users\nisa\source\repos\BNB\CafeMenu\bin\Debug\BNBDatabase.mdf
+C:\Users\nisa\source\repos\BNB\CafeMenu\bin\Debug\BNBDatabase_log.ldf
+C:\Users\nisa\source\repos\BNB\CafeMenu\obj\Debug\brotbohneCafe.Form1.resources
+C:\Users\nisa\source\repos\BNB\CafeMenu\obj\Debug\Admin_Order.AdminOverview.resources
+C:\Users\nisa\source\repos\BNB\CafeMenu\obj\Debug\CafeMenu.LogInAdmin.resources
